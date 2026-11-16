@@ -1,0 +1,82 @@
+body {
+    background-color: #1C1C1C;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #292929;
+}
+
+.navbar-brand {
+    color: #D4AF37;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: #D4AF37;
+}
+
+.inicio {
+    padding: 80px 20px;
+}
+
+h1, h2 {
+    color: #D4AF37;
+}
+
+.secao {
+    padding: 50px 0;
+}
+
+.card {
+    background-color: #333333;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    height: 100%;
+}
+
+.card h5, .card h4 {
+    color: #D4AF37;
+}
+
+.projeto {
+    transition: 0.3s;
+}
+
+.projeto:hover {
+    background-color: #505050;
+    transform: scale(1.03);
+}
+
+.contato {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+}
+
+.botao {
+    background-color: #292929;
+    color: #D4AF37;
+    border: 1px solid #D4AF37;
+}
+
+.botao:hover {
+    background-color: #D4AF37;
+    color: #1C1C1C;
+}
+
+footer {
+    background-color: #292929;
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+footer p {
+    margin: 5px;
+}
